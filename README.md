@@ -6,6 +6,12 @@ Forked from https://github.com/laboshinl/loam_velodyne
 
 Tested with ROS melodic on Ubuntu 18.04
 
+![LOAM](./img/loam.png)
+
+<br/>
+
+![LOAM2](./img/loam2.png)
+
 <br/>
 
 ## How to build
